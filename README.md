@@ -8,4 +8,5 @@ Chương trình đã phân chia lộ trình cho các chuyến xe như sau:
 Sử dụng thuật toán Adaptive Large Neighborhood Search để tối ưu hóa lộ trình với 10 khách hàng.
 
 ### Biểu đồ lộ trình tối ưu:
-<img width="500" height="350" alt="alns_1" src="https://github.com/user-attachments/assets/22d95463-e1b4-41ef-9b0e-e4d32ff5dd3c" />
+<img width="447" height="299" alt="alns_1" src="https://github.com/user-attachments/assets/69060b79-ec32-41b8-9c51-4ab907e4c34e" />
+
